@@ -1,0 +1,6 @@
+C:\Users\alexh\source\repos\0060_Func3\bin\Debug\0060_Func3.exe.config
+C:\Users\alexh\source\repos\0060_Func3\bin\Debug\0060_Func3.exe
+C:\Users\alexh\source\repos\0060_Func3\bin\Debug\0060_Func3.pdb
+C:\Users\alexh\source\repos\0060_Func3\obj\Debug\060_Func3.csproj.CoreCompileInputs.cache
+C:\Users\alexh\source\repos\0060_Func3\obj\Debug\0060_Func3.exe
+C:\Users\alexh\source\repos\0060_Func3\obj\Debug\0060_Func3.pdb

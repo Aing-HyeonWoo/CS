@@ -1,0 +1,6 @@
+C:\Users\alexh\source\repos\067_Check\bin\Debug\067_Check.exe.config
+C:\Users\alexh\source\repos\067_Check\bin\Debug\067_Check.exe
+C:\Users\alexh\source\repos\067_Check\bin\Debug\067_Check.pdb
+C:\Users\alexh\source\repos\067_Check\obj\Debug\067_Check.csproj.CoreCompileInputs.cache
+C:\Users\alexh\source\repos\067_Check\obj\Debug\067_Check.exe
+C:\Users\alexh\source\repos\067_Check\obj\Debug\067_Check.pdb

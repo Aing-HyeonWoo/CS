@@ -1,0 +1,6 @@
+C:\Users\alexh\source\repos\066_Func_params\bin\Debug\066_Func_params.exe.config
+C:\Users\alexh\source\repos\066_Func_params\bin\Debug\066_Func_params.exe
+C:\Users\alexh\source\repos\066_Func_params\bin\Debug\066_Func_params.pdb
+C:\Users\alexh\source\repos\066_Func_params\obj\Debug\066_Func_params.csproj.CoreCompileInputs.cache
+C:\Users\alexh\source\repos\066_Func_params\obj\Debug\066_Func_params.exe
+C:\Users\alexh\source\repos\066_Func_params\obj\Debug\066_Func_params.pdb
