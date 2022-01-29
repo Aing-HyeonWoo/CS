@@ -1,0 +1,13 @@
+C:\Users\alexh\source\repos\085_class_has_A\bin\Debug\netcoreapp3.1\085_class_has_A.exe
+C:\Users\alexh\source\repos\085_class_has_A\bin\Debug\netcoreapp3.1\085_class_has_A.deps.json
+C:\Users\alexh\source\repos\085_class_has_A\bin\Debug\netcoreapp3.1\085_class_has_A.runtimeconfig.json
+C:\Users\alexh\source\repos\085_class_has_A\bin\Debug\netcoreapp3.1\085_class_has_A.runtimeconfig.dev.json
+C:\Users\alexh\source\repos\085_class_has_A\bin\Debug\netcoreapp3.1\085_class_has_A.dll
+C:\Users\alexh\source\repos\085_class_has_A\bin\Debug\netcoreapp3.1\085_class_has_A.pdb
+C:\Users\alexh\source\repos\085_class_has_A\obj\Debug\netcoreapp3.1\085_class_has_A.csproj.AssemblyReference.cache
+C:\Users\alexh\source\repos\085_class_has_A\obj\Debug\netcoreapp3.1\085_class_has_A.AssemblyInfoInputs.cache
+C:\Users\alexh\source\repos\085_class_has_A\obj\Debug\netcoreapp3.1\085_class_has_A.AssemblyInfo.cs
+C:\Users\alexh\source\repos\085_class_has_A\obj\Debug\netcoreapp3.1\085_class_has_A.csproj.CoreCompileInputs.cache
+C:\Users\alexh\source\repos\085_class_has_A\obj\Debug\netcoreapp3.1\085_class_has_A.dll
+C:\Users\alexh\source\repos\085_class_has_A\obj\Debug\netcoreapp3.1\085_class_has_A.pdb
+C:\Users\alexh\source\repos\085_class_has_A\obj\Debug\netcoreapp3.1\085_class_has_A.genruntimeconfig.cache

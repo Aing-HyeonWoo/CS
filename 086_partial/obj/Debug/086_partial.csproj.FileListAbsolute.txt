@@ -1,0 +1,7 @@
+C:\Users\alexh\source\repos\086_partial\bin\Debug\086_partial.exe.config
+C:\Users\alexh\source\repos\086_partial\bin\Debug\086_partial.exe
+C:\Users\alexh\source\repos\086_partial\bin\Debug\086_partial.pdb
+C:\Users\alexh\source\repos\086_partial\obj\Debug\086_partial.csproj.AssemblyReference.cache
+C:\Users\alexh\source\repos\086_partial\obj\Debug\086_partial.csproj.CoreCompileInputs.cache
+C:\Users\alexh\source\repos\086_partial\obj\Debug\086_partial.exe
+C:\Users\alexh\source\repos\086_partial\obj\Debug\086_partial.pdb
