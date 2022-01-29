@@ -1,0 +1,6 @@
+C:\Users\alexh\source\repos\059_Func2\bin\Debug\059_Func2.exe.config
+C:\Users\alexh\source\repos\059_Func2\bin\Debug\059_Func2.exe
+C:\Users\alexh\source\repos\059_Func2\bin\Debug\059_Func2.pdb
+C:\Users\alexh\source\repos\059_Func2\obj\Debug\059_Func2.csproj.CoreCompileInputs.cache
+C:\Users\alexh\source\repos\059_Func2\obj\Debug\059_Func2.exe
+C:\Users\alexh\source\repos\059_Func2\obj\Debug\059_Func2.pdb

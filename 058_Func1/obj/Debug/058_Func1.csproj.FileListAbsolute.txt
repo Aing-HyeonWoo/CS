@@ -1,0 +1,7 @@
+C:\Users\alexh\source\repos\058_Func1\bin\Debug\058_Func1.exe.config
+C:\Users\alexh\source\repos\058_Func1\bin\Debug\058_Func1.exe
+C:\Users\alexh\source\repos\058_Func1\bin\Debug\058_Func1.pdb
+C:\Users\alexh\source\repos\058_Func1\obj\Debug\058_Func1.csproj.AssemblyReference.cache
+C:\Users\alexh\source\repos\058_Func1\obj\Debug\058_Func1.csproj.CoreCompileInputs.cache
+C:\Users\alexh\source\repos\058_Func1\obj\Debug\058_Func1.exe
+C:\Users\alexh\source\repos\058_Func1\obj\Debug\058_Func1.pdb
