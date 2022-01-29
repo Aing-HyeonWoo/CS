@@ -1,0 +1,7 @@
+C:\Users\alexh\source\repos\081_01_classIngeritance\bin\Debug\081_01_classIngeritance.exe.config
+C:\Users\alexh\source\repos\081_01_classIngeritance\bin\Debug\081_01_classIngeritance.exe
+C:\Users\alexh\source\repos\081_01_classIngeritance\bin\Debug\081_01_classIngeritance.pdb
+C:\Users\alexh\source\repos\081_01_classIngeritance\obj\Debug\081_01_classIngeritance.csproj.AssemblyReference.cache
+C:\Users\alexh\source\repos\081_01_classIngeritance\obj\Debug\081_01_classIngeritance.csproj.CoreCompileInputs.cache
+C:\Users\alexh\source\repos\081_01_classIngeritance\obj\Debug\081_01_classIngeritance.exe
+C:\Users\alexh\source\repos\081_01_classIngeritance\obj\Debug\081_01_classIngeritance.pdb

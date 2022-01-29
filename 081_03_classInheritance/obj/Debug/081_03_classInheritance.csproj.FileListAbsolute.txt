@@ -1,0 +1,6 @@
+C:\Users\alexh\source\repos\081_03_classInheritance\bin\Debug\081_03_classInheritance.exe.config
+C:\Users\alexh\source\repos\081_03_classInheritance\bin\Debug\081_03_classInheritance.exe
+C:\Users\alexh\source\repos\081_03_classInheritance\bin\Debug\081_03_classInheritance.pdb
+C:\Users\alexh\source\repos\081_03_classInheritance\obj\Debug\081_03_classInheritance.csproj.CoreCompileInputs.cache
+C:\Users\alexh\source\repos\081_03_classInheritance\obj\Debug\081_03_classInheritance.exe
+C:\Users\alexh\source\repos\081_03_classInheritance\obj\Debug\081_03_classInheritance.pdb

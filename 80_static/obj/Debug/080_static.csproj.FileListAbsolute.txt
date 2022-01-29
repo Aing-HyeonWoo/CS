@@ -1,0 +1,6 @@
+C:\Users\alexh\source\repos\80_static\bin\Debug\80_static.exe.config
+C:\Users\alexh\source\repos\80_static\bin\Debug\80_static.exe
+C:\Users\alexh\source\repos\80_static\bin\Debug\80_static.pdb
+C:\Users\alexh\source\repos\80_static\obj\Debug\080_static.csproj.CoreCompileInputs.cache
+C:\Users\alexh\source\repos\80_static\obj\Debug\80_static.exe
+C:\Users\alexh\source\repos\80_static\obj\Debug\80_static.pdb
