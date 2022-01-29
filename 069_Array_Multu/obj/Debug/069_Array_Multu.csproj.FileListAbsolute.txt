@@ -1,0 +1,6 @@
+C:\Users\alexh\source\repos\069_Array_Multu\bin\Debug\069_Array_Multu.exe.config
+C:\Users\alexh\source\repos\069_Array_Multu\bin\Debug\069_Array_Multu.exe
+C:\Users\alexh\source\repos\069_Array_Multu\bin\Debug\069_Array_Multu.pdb
+C:\Users\alexh\source\repos\069_Array_Multu\obj\Debug\069_Array_Multu.csproj.CoreCompileInputs.cache
+C:\Users\alexh\source\repos\069_Array_Multu\obj\Debug\069_Array_Multu.exe
+C:\Users\alexh\source\repos\069_Array_Multu\obj\Debug\069_Array_Multu.pdb

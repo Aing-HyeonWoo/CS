@@ -1,0 +1,6 @@
+C:\Users\alexh\source\repos\073_Array_Func2\bin\Debug\073_Array_Func2.exe.config
+C:\Users\alexh\source\repos\073_Array_Func2\bin\Debug\073_Array_Func2.exe
+C:\Users\alexh\source\repos\073_Array_Func2\bin\Debug\073_Array_Func2.pdb
+C:\Users\alexh\source\repos\073_Array_Func2\obj\Debug\073_Array_Func2.csproj.CoreCompileInputs.cache
+C:\Users\alexh\source\repos\073_Array_Func2\obj\Debug\073_Array_Func2.exe
+C:\Users\alexh\source\repos\073_Array_Func2\obj\Debug\073_Array_Func2.pdb

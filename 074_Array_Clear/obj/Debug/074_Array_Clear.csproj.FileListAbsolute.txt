@@ -1,0 +1,6 @@
+C:\Users\alexh\source\repos\074_Array_Clear\bin\Debug\074_Array_Clear.exe.config
+C:\Users\alexh\source\repos\074_Array_Clear\bin\Debug\074_Array_Clear.exe
+C:\Users\alexh\source\repos\074_Array_Clear\bin\Debug\074_Array_Clear.pdb
+C:\Users\alexh\source\repos\074_Array_Clear\obj\Debug\074_Array_Clear.csproj.CoreCompileInputs.cache
+C:\Users\alexh\source\repos\074_Array_Clear\obj\Debug\074_Array_Clear.exe
+C:\Users\alexh\source\repos\074_Array_Clear\obj\Debug\074_Array_Clear.pdb
