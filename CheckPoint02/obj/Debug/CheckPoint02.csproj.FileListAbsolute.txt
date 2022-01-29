@@ -1,0 +1,6 @@
+C:\Users\alexh\source\repos\CheckPoint02\bin\Debug\CheckPoint02.exe.config
+C:\Users\alexh\source\repos\CheckPoint02\bin\Debug\CheckPoint02.exe
+C:\Users\alexh\source\repos\CheckPoint02\bin\Debug\CheckPoint02.pdb
+C:\Users\alexh\source\repos\CheckPoint02\obj\Debug\CheckPoint02.csproj.CoreCompileInputs.cache
+C:\Users\alexh\source\repos\CheckPoint02\obj\Debug\CheckPoint02.exe
+C:\Users\alexh\source\repos\CheckPoint02\obj\Debug\CheckPoint02.pdb

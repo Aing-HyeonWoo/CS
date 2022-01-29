@@ -1,0 +1,7 @@
+C:\Users\alexh\source\repos\Checkpoint03\obj\Debug\Checkpoint03.csproj.AssemblyReference.cache
+C:\Users\alexh\source\repos\Checkpoint03\obj\Debug\Checkpoint03.csproj.CoreCompileInputs.cache
+C:\Users\alexh\source\repos\Checkpoint03\bin\Debug\Checkpoint03.exe.config
+C:\Users\alexh\source\repos\Checkpoint03\bin\Debug\Checkpoint03.exe
+C:\Users\alexh\source\repos\Checkpoint03\bin\Debug\Checkpoint03.pdb
+C:\Users\alexh\source\repos\Checkpoint03\obj\Debug\Checkpoint03.exe
+C:\Users\alexh\source\repos\Checkpoint03\obj\Debug\Checkpoint03.pdb
